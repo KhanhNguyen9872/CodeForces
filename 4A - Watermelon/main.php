@@ -1,6 +1,6 @@
 <?php
 // https://codeforces.com/problemset/submission/4/225041775
-// PHP - 92 ms - 16 KB
+// PHP 8.1.7 - 92 ms - 16 KB
 
 $file = fopen('php://stdin', 'r');
 $w = fgets($file);
